@@ -4,7 +4,7 @@ BoGo Sort is one of, if not, the most ineffective sorting algorithm out there. I
 # Why do it?
 Its so bad that its a meme, so why not do it?
 
-# Want to learn more abotu BoGo Sort?
+# Want to learn more about BoGo Sort?
 Vist: https://en.wikipedia.org/wiki/Bogosort
 
 # Requirements:
